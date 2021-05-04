@@ -150,57 +150,6 @@ h1{
 }
 
 
-.bottom p{
-	text-align: center;
-}
-
-.social-icons-container{
-	display: flex;
-}
-.social-icons-container i{
-	font-size: 30px;
-	color: white;
-	width: 35px;
-	height: 35px;
-	text-align: center;
-	margin-right: 2rem;
-	margin-left: 25rem;
-	transform: scaleX(1);
-	transition: transform 0.5s ease-in-out;
-}
-.social-icons-container i:hover{
-	transform: scale(1.5);
-}
-.social-icons-container div:nth-child(1) i{
-	background-color: #3b5998;
-	border-radius:20%;
-}
- .social-icons-container div:nth-child(2) i{
-	background-color: #0e76a8;
-	border-radius:20%;
-	margin-left: -1rem;
-}
-.social-icons-container div:nth-child(3) i{
-	background-color: #211F1F;
-	border-radius:20%;
-	margin-left: -1rem;
-}
-.social-icons-container div:nth-child(4) i{
-	background: #f09433; 
-	background: -moz-linear-gradient(45deg, #f09433 0%, #e6683c 25%, #dc2743 50%, #cc2366 75%, #bc1888 100%); 
-	background: -webkit-linear-gradient(45deg, #f09433 0%,#e6683c 25%,#dc2743 50%,#cc2366 75%,#bc1888 100%); 
-	background: linear-gradient(45deg, #f09433 0%,#e6683c 25%,#dc2743 50%,#cc2366 75%,#bc1888 100%); 
-	filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#f09433', endColorstr='#bc1888',GradientType=1 );
-	margin-left: -1rem;
-	border-radius: 20%;
-}
-.social-icons-container div:nth-child(5) i{
-	margin-left: -1rem;
-	background-color: #121213;
-	border-radius: 20%;
-}
-
-
 /* width */
 ::-webkit-scrollbar {
 	width: 8px;
