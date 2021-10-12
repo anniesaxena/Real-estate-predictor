@@ -11,8 +11,8 @@ This is a Machine learning model which predicts the Price of House in Bangalore 
 - Made a simple frontend using HTML, CSS and JavaScript that allows user to enter home square ft area, bedrooms etc and calls python flask server to retrieve the predicted price.
 - Model score = 84.55%
 <br />
-- <img src="images/1.png" />
-- <img src="images/2.png" />
+- <img src="images/a.png" />
+- <img src="images/b.png" />
 
 <br />
 
