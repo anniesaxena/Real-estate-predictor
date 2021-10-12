@@ -17,3 +17,5 @@ This is a Machine learning model which predicts the Price of House in Bangalore 
 <br />
 
 As we can see, in the above images, for same sqft area, bathrooms and bhk -> Price is different for different localities depending on the price trend there.
+
+Deployed model link - https://price-pred-model.herokuapp.com/
