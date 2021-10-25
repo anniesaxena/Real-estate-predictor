@@ -1,8 +1,7 @@
 # Real Estate Price Prediction Model
 
-This is a Machine learning model which predicts the Price of House in Bangalore according to the BHK, Number of Bathrooms, Locality and total sqft area.
+This is a Machine learning model which predicts the Price of House in Bangalore according to the BHK, Number of Bathrooms, Locality, Balcony, Area type and total sqft area.
 
-- Dataset : Banglore home prices from kaggle.com
 - Numpy and Pandas for Data Cleaning and Matplotlib for Data Visualization
 - Used data science concepts such as data load and cleaning, outlier detection and removal, feature engineering and dimensionality reduction.
 - For buidling the model, skelarn and linear regression was used, alongwith data science concepts like gridsearchcv for hyperparameter tunning and k fold cross validation.
@@ -11,8 +10,7 @@ This is a Machine learning model which predicts the Price of House in Bangalore 
 - Made a simple frontend using HTML, CSS and JavaScript that allows user to enter home square ft area, bedrooms etc and calls python flask server to retrieve the predicted price.
 - Model score = 84.55%
 <br />
-- <img src="images/a.png" />
-- <img src="images/b.png" />
+- <img src="screencapture-price-pred-model-herokuapp-2021-10-25-14_35_07.png" />
 
 <br />
 
